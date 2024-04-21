@@ -3,6 +3,7 @@ import './App.css';
 import Monkeys from './components/Monkeys';
 import Justification from './components/Justification';
 import AntonSyperCritoi from './components/AntonSyperCritoi';
+import MegaSheet from './components/MegaSheet';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Justification />
         <Monkeys/>
         <AntonSyperCritoi />
+        <MegaSheet />
     </div>
   );
 }
